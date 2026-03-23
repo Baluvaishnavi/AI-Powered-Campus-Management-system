@@ -32,7 +32,7 @@ A comprehensive, production-ready full-stack application designed for college ca
 - **Frontend:** React 18, Tailwind CSS, Lucide React (Icons), Motion (Animations).
 - **Backend:** Node.js, Express.js.
 - **Database:** MySQL (Relational Data).
-- **AI:** Google Gemini API (`@google/genai`).
+- **AI:** Google Gemini API (`@google/genai`),Cerebres API key.
 
 ## 🛠️ Setup & Installation
 
